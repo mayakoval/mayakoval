@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">I'm Maya</h1>
 
-<h3 align="center">👩‍🔬 After 3 years in biotech contributing from depths of research laboratories</h3>
+<h3 align="center">👩‍🔬 After 3 years in biotech contributing from the depths of research laboratories</h3>
 
 <h3 align="center">💻 I would love to contribute to advancement through lines of powerful code</h3>
 
