@@ -63,4 +63,6 @@
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayakoval&" alt="mayakoval" />
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=mayakoval&label=Viewed&color=4da4db&style=flat" alt="mayakoval" />
   </p>
